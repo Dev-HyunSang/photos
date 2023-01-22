@@ -11,9 +11,16 @@
             I have been recording beautiful and impressive things while traveling since I majored in video and photography <br/>
             in high school since I majored in photography in high school.<br/>
             Currently, I take photography as a hobby, and I major Cyber Security at Soonchunhyang University.<br/>
+        </p>
+        <p style="padding-top: 0.5rem;">
+            <b>Inspired Photography</b><br/>
+            <a href="https://shinnoguchiphotography.com/">Shin Noguchi</a>, <a href="https://changwlee.com/">Chang W. Lee</a>, <a href="http://todd-heisler.squarespace.com/">Todd Heisler</a>, <a href="https://www.instagram.com/kim_reuters_photojournalist/">Kyung-Hoon Kim (김경훈)</a>, <a href="https://www.instagram.com/lim_byeongsik_photos/">임병식(Lim Byeongsik)</a><br/>
+            <a href="http://www.vivianmaier.com/gallery/street-1/">Vivian Maier</a>, <a href="https://www.philpenman.com/">Phil Penman</a>, <a href="http://www.kyohnam.com/">Kyo H Nam</a>
+        </p>
+        <p style="padding-top: 0.5rem;">
             <b>Email.</b> <a href="mailto:me@hyunsang.dev">me@hyunsang.dev</a> | <a href="mailto:parkhyunsang@kakao.com">parkhyunsang@kakao.com</a>
         </p>
-        </div>
+    </div>
 </template>
 <style>
 .about-image{
