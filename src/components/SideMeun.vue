@@ -46,6 +46,18 @@ import { RouterLink } from 'vue-router';
     <li>
       <RouterLink class="link" to="/2023/20230117-Tokyo">2023.01.17 - Tokyo, Japan</RouterLink>
     </li>
+    <li>
+      <RouterLink class="link" to="/2023/20230118-Tokyo">2023.01.18 - Tokyo, Japan</RouterLink>
+    </li>
+    <li>
+      <RouterLink class="link" to="/2023/20230119-Tokyo">2023.01.19 - Tokyo, Japan</RouterLink>
+    </li>
+    <li>
+      <RouterLink class="link" to="/2023/20230120-Tokyo">2023.01.20 - Tokyo, Japan</RouterLink>
+    </li>
+    <li style="padding-top: 1rem; font-size: 75%;">
+      Copyright ⓒ 2022 ~ 2023 by HyunSang Park.
+    </li>
   </ul>
 </div>
 </template>

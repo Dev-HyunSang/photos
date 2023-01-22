@@ -1,7 +1,8 @@
 <template>
     <div id="main">
         <main>
-            <img src="../assets/2023/2023-01-08/2H6A8769.jpg" width="800"/>
+            <img src="../assets/2023/2023-01-08/2H6A8769.jpg" width="500" style="float: left; padding-right: 0.5rem;"/>
+            <img src="@/assets/2023/2023-01-18/2H6A2890.jpg" width="500" style="float: left;" />
             <p>제 눈으로 보고 아름답고 인상 깊은 것들을 기록해요.<br/>
                 최근에는 도시의 다양한 모습을 담기 위해서 다양한 곳을 둘러보고 "사진 속의 이야기"를 담고자 노력합니다.
             </p>

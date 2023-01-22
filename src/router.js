@@ -3,13 +3,16 @@ import VueRouter from 'vue-router';
 import HomeView from './views/HomeView'
 import AboutView from './components/AboutComponent'
 
-// Photos
+// Photos - 2023
 import Muan20221227 from './components/2022/20231227_ Muan'
 import Busan20230103 from './components/2023/20230103_Busan'
 import Seoul20230108 from './components/2023/20230108_Seoul'
 import Seoul2 from './components/2023/20230108_Seoul_2'
 import Tokyo20230116 from './components/2023/20230116_Tokyo'
 import Tokyo20230117 from './components/2023/20230117_Tokyo'
+import Tokyo20230118 from './components/2023/20230118_Tokyo'
+import Tokyo20230119 from './components/2023/20230119_Tokyo'
+import Tokyo20230120 from './components/2023/20230120_Tokyo'
 
 Vue.use(VueRouter);
 
@@ -59,6 +62,18 @@ const route = [
             {
                 path: "20230117-Tokyo",
                 component: Tokyo20230117,
+            },
+            {
+                path: "20230118-Tokyo",
+                component: Tokyo20230118
+            },
+            {
+                path: "20230119-Tokyo",
+                component: Tokyo20230119
+            },
+            {
+                path: "20230120-Tokyo",
+                component: Tokyo20230120,
             }
         ]
     },

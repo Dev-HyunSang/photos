@@ -2,8 +2,15 @@
     <div class="photo-area">
         <div class="statement">
             <img class="top-image" src="@/assets/2023/2023-01-17/2H6A0668.jpg" />
-            <p style="padding-bottom: 1rem; font-weight: bold;">오랜만의 해외여행 · </p>
-            <p>시부야 스카이,</p>
+            <p style="padding-bottom: 1rem; font-weight: bold;">도시 속 다양한 사람들 · various people in the city</p>
+            <p>시부야는 도쿄에서 분주한 역 중 하나입니다. 패션의 중심지, 주요 유흥가입니다.<br/>
+                시부야 스카이에서 다양한 사람들이 도쿄의 풍경을 보는 모습과 도쿄의 멋있는 모습들을 담아보았습니다.
+            </p>
+            <p style="padding-top: 1rem;">
+                Shibuya is one of the busy stations in Tokyo. It's a fashion center, a major entertainment district.<br/>
+                At Shibuya Sky, I captured various people looking at the scenery of Tokyo and the cool aspects of Tokyo.
+            </p>
+            <p style="padding-top: 1rem;"><b>Location.</b> 시부야 스크램블 교차로(Shibuya Crossing, 渋谷スクランブル交差点) / 요요기 공원(代々木公園) / 시부야 스카이(SHIBUYA SKY, 渋谷スカイ)</p>
         </div>
         <table>
             <tr>

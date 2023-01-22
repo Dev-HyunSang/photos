@@ -2,11 +2,16 @@
     <div class="photo-area">
         <div class="statement">
             <img class="top-image" src="@/assets/2023/2023-01-16/2H6A9802.jpg" />
-            <p style="padding-bottom: 1rem; font-weight: bold;">오랜만의 해외여행 · </p>
-            <p>해운대는 다양한 모습을 가지고 있습니다. 해질녘의 해운대의 바다는 너무나도 이쁩니다.<br/>
-                다양한 사람들과 율슨한 바다의 모습은 제게 있어서 너무나도 이쁩니다.<br/>
-                사랑하는 사람과 함께 바다를 보며, 행복한 모습을 사진으로 담습니다.
+            <p style="padding-bottom: 1rem; font-weight: bold;">오랜만의 해외여행 · long trip abroad</p>
+            <p>코로나19로 인해서 3년 동안 많은 사람들이 여행을 가지 못했습니다. 저도 마찬가지로 해외여행을 가지 못 했습니다.<br/>
+                올해는 다행히도 일본에 무비자 입국이 가능해져서 한국에서 가까운 일본으로 향하게 되었습니다. <br/>
+                여행을 가는 사람들, 그리고 다양한 풍경들을 담아 보았습니다.
             </p>
+            <p style="padding-top: 1rem;">Due to COVID-19, many people couldn't travel for 3 years. I haven't been able to travel abroad.<br/>
+                Fortunately, I was able to enter Japan without a visa this year, so I headed to Japan near Korea. <br/>
+                I captured people going on a trip and various scenery.
+            </p>
+            <p style="padding-top: 1rem;"><b>Location.</b> 인천국제공항(Seoul-Incheon International Airport) / 신주쿠구(Shinjuku City, 新宿区)</p>
         </div>
         <table>
             <tr>
