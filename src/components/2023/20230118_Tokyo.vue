@@ -144,7 +144,7 @@
         </table>
         <hr />
         <div class="info-area">
-            <p class="info">Canon EOS R6 + RF 24-105 F4 IS USM(Kenko Black Mist No.05)<br/>
+            <p class="info">Canon EOS R6 + RF 24-105 F4 IS USM<br/>
            <b>Copyright ⓒ 2023 by HyunSang Park. All pictures cannot be copied without permission.</b></p>
         </div>
     </div>
