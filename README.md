@@ -1,24 +1,8 @@
 # photos
+취미로 촬영한 사진들을 공유하고 시각화하기 위해서 만든 프로젝트입니다.  
 
-## Project setup
-```
-npm install
-```
+![01](./images/01.png)
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+![02](./images/02.png)
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![03](./images/03.png)
